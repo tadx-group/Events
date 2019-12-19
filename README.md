@@ -10,7 +10,7 @@ N'hésitez pas à soumettre une issue pour proposer un talk, soumettre une idée
 
 [Ceux](./TADx_2019-10/TADx%20-%20Pre%CC%81sentation%20conteneurisation.pdf) de Sébastien Laporte.
 
-## Evénement 2 : reporté
+## Evénement 2 : reporté
 
 ## Evénement 3 : GitHub actions
 Les [slides](./TADx_2019-12/TADX_201912_NabilBOUABDALLAH.pptx) que nous avons présentés, notament avec les sponsors et nos coordonnées pour nous joindre.
